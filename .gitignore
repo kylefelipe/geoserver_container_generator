@@ -2,9 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,data
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,linux,data
 
-data/
-conf/.pgpass
-### Linux ###
+data_dir/
+## Linux ###
 *~
 
 # temporary files which can be created if a process still has a handle open of a deleted file
